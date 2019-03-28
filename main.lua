@@ -45,7 +45,7 @@ pizzaButton.x = 160
 pizzaButton.y = 310
 pizzaButton.id = "Order button"
 
---largepizza
+--toppings
 local pizzaButton1 = display.newImageRect( "./assets/1top.png", 110, 25 )
 pizzaButton1.x = 90
 pizzaButton1.y = 200
